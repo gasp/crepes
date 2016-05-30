@@ -1,4 +1,4 @@
-Ingrédients
+* Ingrédients
 
 Farine
 Sucre
@@ -6,7 +6,7 @@ Oeufs
 Lait
 Huile
 
-Préparation
+* Préparation
 
 Mettre la farine dans un grand bol, 
 y déposer les oeufs
