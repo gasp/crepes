@@ -1,6 +1,7 @@
 * Ingrédients
 
 Farine
+Cacao
 Sucre
 Oeufs
 Lait
@@ -8,7 +9,7 @@ Huile
 
 * Préparation
 
-Mettre la farine dans un grand bol, 
+Mettre la farine et le cacao dans un grand bol, 
 y déposer les oeufs
 ajouter de l'huile et un peu de lait
 travailler énergiquement la pâte avec une cuillère pour la rendre légère
